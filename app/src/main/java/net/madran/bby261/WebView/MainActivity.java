@@ -15,9 +15,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Ekrandaki WebView öğesinin ilişkilendirilmesi
+
         webView = (WebView) findViewById(R.id.detayWebView);
 
+        //WebView nesnesinin oluşturulması
+
         webView.setWebViewClient(new WebViewClient());
+
+        //WebView için adres tanımlama
 
         webView.loadUrl("http://www.madran.net");
 

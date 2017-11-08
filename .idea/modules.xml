@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\orcunmadran\Workspace\WebView\net.madran.bby261.WebView\app\app.iml" filepath="C:\Users\orcunmadran\Workspace\WebView\net.madran.bby261.WebView\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/net.madran.bby261.WebView.iml" filepath="$PROJECT_DIR$/net.madran.bby261.WebView.iml" />
+      <module fileurl="file://C:\Users\orcunmadran\Workspace\WebView\net.madran.bby261.WebView\net.madran.bby261.WebView.iml" filepath="C:\Users\orcunmadran\Workspace\WebView\net.madran.bby261.WebView\net.madran.bby261.WebView.iml" />
     </modules>
   </component>
 </project>
